@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{64F70EA3-1E78-80AA-F6E1-482CA198DE46}") = "DreamLock Prototype (03-12)", "Assembly-CSharp.csproj", "{B9565B63-9B99-8929-46ED-C0B5351B9D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9565B63-9B99-8929-46ED-C0B5351B9D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9565B63-9B99-8929-46ED-C0B5351B9D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9565B63-9B99-8929-46ED-C0B5351B9D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9565B63-9B99-8929-46ED-C0B5351B9D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
